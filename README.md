@@ -2,6 +2,9 @@
 
 This is a Java implementation of a Shard Manager system inspired by Meta's Shard Manager. It provides a framework for managing distributed data across multiple hosts with automatic sharding, replication, failover, and load balancing.
 
+![diagram](https://github.com/user-attachments/assets/23f65122-871d-4dcc-9c21-d36ce1c3b4c2)
+
+
 ## Key Components
 
 ### Core Components
